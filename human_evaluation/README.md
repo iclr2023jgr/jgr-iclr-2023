@@ -22,10 +22,11 @@ Rita, 24, has collaborated with adidas Originals. Has put her own bold spin on t
 
 ```
 
-The annotators need to judge which one of the two summaries is better in the three aspects separately. For example, if summary #1 is better than summary #2 in the aspect of informative, then the evaluators should type “1” behind "[***] informative:", which means summary #1 wins on informative. And if summary #2 wins in readability, then type “2” behind "[***] readability:". If the two summaries draw with each other in an aspect, then type “0” in the cell below that aspect. 
+The annotators need to judge which one of the two summaries is better in the three aspects separately. For example, if summary #1 is better than summary #2 in the aspect of informative, then the evaluators should type “1” behind `[***] informative:`, which means summary #1 wins on informative. And if summary #2 wins in readability, then type “2” behind `[***] readability:`. If the two summaries draw with each other in an aspect, then type “0” in the cell below that aspect. 
 
 The meaning of the three aspects: 
 Informative: The extent to which the summary contains the key information of the original document.
 Factual consistency: The extent to which the facts contained in the abstract are consistent with the facts stated in the original document.
 Readability: Whether the abstract is easy to read, free from language problems and fluent.
 
+We provide the information about which model the `summary #1` and `summary #2` come from for each sample.
