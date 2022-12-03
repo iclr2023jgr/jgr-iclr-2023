@@ -29,4 +29,4 @@ Informative: The extent to which the summary contains the key information of the
 Factual consistency: The extent to which the facts contained in the abstract are consistent with the facts stated in the original document.
 Readability: Whether the abstract is easy to read, free from language problems and fluent.
 
-We provide the information about which model the `summary #1` and `summary #2` come from for each sample.
+We provide the information about which model the `summary #1` and `summary #2` come from for each sample in `index_marker.json`.
