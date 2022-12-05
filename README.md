@@ -130,11 +130,11 @@ We also provide our trained checkpoints for you:
 
 |          | Generator | Ranker |
 |----------|---------|---------|
-| CNNDM    | [generator.zip](https://uswvhd.blob.core.windows.net/anonymous/jgr/saved_models/cnndm/generator.zip)  | [reranker.zip](https://uswvhd.blob.core.windows.net/anonymous/jgr/saved_models/cnndm/reranker.zip) | 
-| CNNDM (initialized with BRIO)   | [generator.zip](https://uswvhd.blob.core.windows.net/anonymous/jgr/saved_models/cnndm-BRIO/generator.zip)  | [reranker.zip](https://uswvhd.blob.core.windows.net/anonymous/jgr/saved_models/cnndm-BRIO/reranker.zip) | 
-| SAMSum     |  [generator.zip](https://uswvhd.blob.core.windows.net/anonymous/jgr/saved_models/samsum/generator.zip)  | [reranker.zip](https://uswvhd.blob.core.windows.net/anonymous/jgr/saved_models/samsum/reranker.zip) | 
-| SquadQG     |  [generator.zip](https://uswvhd.blob.core.windows.net/anonymous/jgr/saved_models/squadqg/generator.zip)  | [reranker.zip](https://uswvhd.blob.core.windows.net/anonymous/jgr/saved_models/squadqg/reranker.zip) | 
-| Personachat     |  [generator.zip](https://uswvhd.blob.core.windows.net/anonymous/jgr/saved_models/personachat/generator.zip)  | [reranker.zip](https://uswvhd.blob.core.windows.net/anonymous/jgr/saved_models/personachat/reranker.zip) | 
+| CNNDM    | [generator.zip](https://uswvhd.blob.core.windows.net/anonymous/saved_models/cnndm/generator.zip)  | [reranker.zip](https://uswvhd.blob.core.windows.net/anonymous/saved_models/cnndm/reranker.zip) | 
+| CNNDM (initialized with BRIO)   | [generator.zip](https://uswvhd.blob.core.windows.net/anonymous/saved_models/cnndm-BRIO/generator.zip)  | [reranker.zip](https://uswvhd.blob.core.windows.net/anonymous/saved_models/cnndm-BRIO/reranker.zip) | 
+| SAMSum     |  [generator.zip](https://uswvhd.blob.core.windows.net/anonymous/saved_models/samsum/generator.zip)  | [reranker.zip](https://uswvhd.blob.core.windows.net/anonymous/saved_models/samsum/reranker.zip) | 
+| SquadQG     |  [generator.zip](https://uswvhd.blob.core.windows.net/anonymous/saved_models/squadqg/generator.zip)  | [reranker.zip](https://uswvhd.blob.core.windows.net/anonymous/saved_models/squadqg/reranker.zip) | 
+| Personachat     |  [generator.zip](https://uswvhd.blob.core.windows.net/anonymous/saved_models/personachat/generator.zip)  | [reranker.zip](https://uswvhd.blob.core.windows.net/anonymous/saved_models/personachat/reranker.zip) | 
 
 
 ## Compared Methods
@@ -145,6 +145,6 @@ The checkpoints for these methods are also provided:
 
 |          | Generator | Discriminator |
 |----------|---------|---------|
-| GAN    | [generator.zip](https://uswvhd.blob.core.windows.net/anonymous/jgr/saved_models/GAN/generator.zip)  | [discriminator.zip](https://uswvhd.blob.core.windows.net/anonymous/jgr/saved_models/GAN/discriminator.zip) | 
-| RL   | [generator.zip](https://uswvhd.blob.core.windows.net/anonymous/jgr/saved_models/RL/generator.zip)  | - | 
-| Actor-critic  |  [generator.zip](https://uswvhd.blob.core.windows.net/anonymous/jgr/saved_models/Actor-critic/generator.zip)  | [critic.zip](https://uswvhd.blob.core.windows.net/anonymous/jgr/saved_models/Actor-critic/critic.zip) | 
+| GAN    | [generator.zip](https://uswvhd.blob.core.windows.net/anonymous/saved_models/GAN/generator.zip)  | [discriminator.zip](https://uswvhd.blob.core.windows.net/anonymous/saved_models/GAN/discriminator.zip) | 
+| RL   | [generator.zip](https://uswvhd.blob.core.windows.net/anonymous/saved_models/RL/generator.zip)  | - | 
+| Actor-critic  |  [generator.zip](https://uswvhd.blob.core.windows.net/anonymous/saved_models/Actor-critic/generator.zip)  | [critic.zip](https://uswvhd.blob.core.windows.net/anonymous/saved_models/Actor-critic/critic.zip) | 
